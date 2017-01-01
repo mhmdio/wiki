@@ -1,1 +1,2 @@
-## Wiki Repository for Documentation, a modern Mediawiki replacement Edit
+## Documentations
+Wiki Repository for Documentation, a modern Mediawiki replacement Edit
